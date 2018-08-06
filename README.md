@@ -25,3 +25,9 @@ Tired of Googling around for programming interview practice problems? This is a 
 6. Not breaking any confidentiality agreements
 
 *Interested in getting even more involved?* Feel free to submit problems and solutions as pull requests. Email brian@codingforinterviews.com to get more involved with the group and join our planning Trello board.
+
+
+## Running Practice Problems
+- run `npm install` to install the dependencies
+- run `npm run build` to start the typescript compiler and generate the js files
+- run `npm run test` to see the tests pass
